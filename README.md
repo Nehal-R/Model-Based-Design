@@ -1,4 +1,3 @@
-# Model-Based-Design
 # Model-Based Design (MBD) – MATLAB Learning Portfolio
 
 ## Overview
@@ -32,46 +31,6 @@ Write code → Run simulation → Analyze results → Document learning
 
 ---
 
-## Completed Labs
-
-### Lab 01 – MATLAB Basics & Matrix Operations
-
-**Topics covered:**
-
-* Creating numeric matrices
-* Matrix addition and multiplication
-* Vector creation
-* Matrix concatenation
-* Using the repmat function
-* Identity matrices
-
-**Skills gained:**
-
-* Understanding how MATLAB handles arrays and matrices
-* Performing basic mathematical operations
-* Visualizing results
-
----
-
-### Lab 02 – Numeric Types & Array Manipulation
-
-**Topics covered:**
-
-* Integer vs double data types
-* Using the `class` function
-* Creating vectors (even numbers & prime numbers)
-* Identity matrix using built-in functions
-* Magic square matrix
-* Horizontal and vertical concatenation
-
-**Skills gained:**
-
-* Understanding MATLAB numeric types
-* Using specialized matrix functions
-* Combining matrices and vectors
-
----
-
 ## Purpose of This Repository
 
 This repository serves as a technical portfolio that shows:
@@ -81,4 +40,3 @@ This repository serves as a technical portfolio that shows:
 * Strong understanding of matrix operations
 * Engineering documentation skills
 
-More labs will be added as I continue progressing in Model-Based Design.
