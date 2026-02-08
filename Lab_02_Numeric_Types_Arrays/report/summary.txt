@@ -1,0 +1,14 @@
+LAB 02 – MATLAB Numeric Types and Array Manipulation
+
+Objective:
+The goal of this lab was to understand MATLAB numeric data types, create arrays, and use special matrix functions.
+
+What I did:
+- Created integer and double variables.
+- Checked data types using the class function.
+- Created vectors for even numbers and prime numbers.
+- Generated an identity matrix and a magic square.
+- Performed horizontal and vertical matrix concatenation.
+
+What I learned:
+This lab improved my understanding of MATLAB data types, array creation, and matrix operations. I learned how to use built-in MATLAB functions and combine matrices in different ways.
