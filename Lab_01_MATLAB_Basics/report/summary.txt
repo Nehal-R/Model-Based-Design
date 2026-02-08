@@ -1,0 +1,16 @@
+LAB 01 – MATLAB Numeric Arrays and Basic Operations
+
+Objective:
+The purpose of this lab was to practice basic MATLAB skills including creating numeric arrays, performing matrix operations, concatenating vectors, and using built-in functions.
+
+What I did:
+- Created 3x3 matrices and performed matrix addition.
+- Displayed results using MATLAB commands.
+- Created row and column vectors.
+- Performed horizontal concatenation.
+- Used the repmat function to repeat a matrix pattern.
+- Created an identity matrix.
+- Performed matrix multiplication.
+
+What I learned:
+This lab helped me understand how MATLAB handles matrices, vectors, and basic operations. I learned how to manipulate arrays, perform calculations, and visualize results using simple scripts.
