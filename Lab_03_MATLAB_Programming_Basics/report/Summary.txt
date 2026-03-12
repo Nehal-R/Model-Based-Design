@@ -1,0 +1,15 @@
+LAB 03 – MATLAB Programming Basics
+
+Objective:
+The goal of this lab was to practice fundamental MATLAB programming concepts including data structures, conditional statements, loops, and plotting.
+
+What I did:
+- Created and accessed elements in cell arrays.
+- Built a structure to store personal information.
+- Worked with character arrays and string concatenation.
+- Implemented an if statement to determine whether a number is even or odd.
+- Used a for loop to generate and display a sequence of numbers.
+- Generated data and plotted a sine wave with labels and a legend.
+
+What I learned:
+This lab helped me understand how MATLAB supports basic programming logic and data structures. I practiced writing conditional statements, loops, and creating simple visualizations using MATLAB plots.
