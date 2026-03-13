@@ -1,0 +1,14 @@
+LAB 04 – MATLAB Control Structures (While and Switch)
+
+Objective:
+The purpose of this lab was to practice MATLAB control structures including while loops and switch statements.
+
+What I did:
+- Created a while loop to generate even numbers from 2 to 20.
+- Implemented a while loop to calculate the factorial of a user-provided number.
+- Built a switch statement to calculate transportation cost based on different travel modes.
+- Created another switch statement to translate color codes into color names.
+- Used user input to interact with the program.
+
+What I learned:
+This lab helped me understand how MATLAB handles decision making and repetition in programs. I practiced implementing loops, handling user input, and managing multiple conditions using switch statements.
